@@ -5,3 +5,6 @@ I am currently an undergraduate student at Brown University pursuing a B.S. in C
 * ❔ My interests range from ML, to Wireless Networks, Systems, and more.
 
 Previously, I was a Software Engineer Intern at the NASA Johnson Space Center - Avionic Systems Division (Wireless Networks Team). I worked on wireless networking software and Astrobee research.
+
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
