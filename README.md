@@ -5,4 +5,4 @@ I am currently an undergraduate student at Brown University pursuing a B.S. in C
 * ❔ My interests range from ML/DL, to Wireless Networks, Systems, and more.
 * 🤔 Most of my Repos are private, so contact me to see them. 
 
-Previously, I was a Software Engineer Intern at the NASA Johnson Space Center - Avionic Systems Division, where I worked on wireless networking software to put Wi-Fi on the Moon and conducted Astrobee research for spacecraft signal propagation 🚀 
+Previously, I was a Software Engineer Intern at the NASA Johnson Space Center - Avionic Systems Division, where I worked on wireless networking software to put Wi-Fi on the Moon. I also conducted Astrobee research for spacecraft signal propagation 🚀 
